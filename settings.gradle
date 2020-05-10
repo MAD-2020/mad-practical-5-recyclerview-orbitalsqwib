@@ -1,0 +1,2 @@
+rootProject.name='MAD-RecyclerView'
+include ':app'
